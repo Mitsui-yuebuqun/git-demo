@@ -9,3 +9,4 @@ hello!world!
 hello!world! hot-fix test
 This is Huashan剑法
 第一次修改 by 岳不群
+添加冲灵剑法 by 令狐冲
